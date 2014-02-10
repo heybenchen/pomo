@@ -1,0 +1,35 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "4ca5b01b-fc34-4655-90ea-9bd9d71ead85",
+    "appKeys": {},
+    "longName": "Pomo Beam",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Pomo Beam",
+    "companyName": "superchoob",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_IMAGINE_48",
+                "file": "fonts/imagine.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_IMAGINE_24",
+                "file": "fonts/imagine.ttf"
+            }
+        ]
+    }
+}
